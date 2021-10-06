@@ -1,4 +1,4 @@
-# CHEST XRAY VERSION 1
+# CHEST XRAY VERSION 1 (Old version)
 The model detect the abnormalities in chest-Xray image by using RetinaNet by Kos Nhan 
 
 This project is currently version 1 by using transfer learning from [fizyr](https://github.com/fizyr/keras-retinanet)
